@@ -1,0 +1,243 @@
+@import '../palette.scss';
+
+body {
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+  background: $alabaster;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background: $viridian;
+  color: $alabaster;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+}
+
+.nav-logo {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+  background: none;
+  box-shadow: 0 1px 4px rgba(31, 141, 114, 0.10);
+  object-fit: cover;
+  margin-right: 0.5rem;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  color: $alabaster;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1.1rem;
+  transition: color 0.2s;
+}
+
+.nav-links a:hover {
+  color: $tea-green;
+}
+
+main {
+  flex: 1;
+  max-width: 900px;
+  margin: 2rem auto 0 auto;
+  padding: 0 1rem 2rem 1rem;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.hero-logo {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Segoe UI Semibold', 'Roboto', Arial, sans-serif;
+  color: $viridian;
+  margin-top: 0;
+}
+
+.subtitle {
+  font-size: 1.3rem;
+  color: $jungle-green;
+  margin-bottom: 1.5rem;
+}
+
+.beta-signup {
+  margin: 2.5rem auto 1rem auto;
+  max-width: 400px;
+  background: $old-lace;
+  border-radius: 8px;
+  padding: 1.5rem 1rem;
+  box-shadow: 0 2px 8px rgba(31, 141, 114, 0.07);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1.2rem;
+}
+.beta-signup form,
+.beta-signup label,
+.beta-signup input,
+.beta-signup button {
+  width: 100%;
+  box-sizing: border-box;
+}
+.beta-signup label {
+  font-weight: 500;
+  color: $viridian;
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+.beta-signup input[type="email"] {
+  padding: 0.7rem;
+  border: 1px solid $tea-green;
+  border-radius: 4px;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.beta-signup button {
+  background: $viridian;
+  color: $alabaster;
+  border: none;
+  border-radius: 4px;
+  padding: 0.7rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-top: 0.5rem;
+}
+.beta-signup button:hover {
+  background: $jungle-green;
+}
+
+.key-benefits {
+  list-style: disc inside;
+  margin: 1.5rem 0 0 0;
+  padding: 0 0 0 1.2rem;
+  color: $viridian;
+}
+
+.image-placeholder {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.image-placeholder img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 12px;
+  opacity: 0.85;
+  box-shadow: 0 2px 12px rgba(31, 141, 114, 0.08);
+}
+
+footer {
+  background: $viridian;
+  color: $alabaster;
+  text-align: center;
+  padding: 1.2rem 0;
+  font-size: 1rem;
+  margin-top: auto;
+}
+
+.contact-info {
+  margin: 2.5rem auto 1.5rem auto;
+  padding: 1.5rem 2rem;
+  background: $old-lace;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(31, 141, 114, 0.07);
+  max-width: 400px;
+  text-align: center;
+}
+.contact-info h2 {
+  margin-top: 0;
+  color: $viridian;
+}
+.contact-info a {
+  color: $jungle-green;
+  font-weight: 500;
+  text-decoration: none;
+}
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.team-section {
+  margin: 2.5rem auto 1.5rem auto;
+  max-width: 420px;
+  text-align: center;
+}
+.team-image {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(31, 141, 114, 0.10);
+  margin-bottom: 1rem;
+}
+.team-blurb {
+  color: $viridian;
+  font-size: 1.08rem;
+  margin: 0 auto;
+  padding: 0 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 700px) {
+  .navbar {
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  .hero-logo {
+    width: 80px;
+    height: 80px;
+  }
+  main {
+    padding: 0 0.5rem 2rem 0.5rem;
+  }
+  .image-placeholder img {
+    max-width: 100%;
+  }
+  .beta-signup {
+    max-width: 98vw;
+    padding: 1rem 0.5rem;
+  }
+  .beta-signup button {
+    width: 100%;
+    font-size: 1.1rem;
+  }
+  .beta-signup, .contact-info {
+    max-width: 98vw;
+    padding: 1rem 0.5rem;
+  }
+  .team-section {
+    max-width: 98vw;
+    padding: 0 0.5rem;
+  }
+  .team-image {
+    max-width: 98vw;
+  }
+} 

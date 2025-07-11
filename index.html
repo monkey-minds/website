@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MonkeyMinds: The Future of Customer Intelligence</title>
+  <link rel="stylesheet" href="css/palette.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <img src="monkey_circle_small.png" alt="MonkeyMinds circular monkey icon logo" class="nav-logo">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <img src="monkey_minds_logo_large_square.png" alt="MonkeyMinds large logo: stylized, modern, square format" class="hero-logo">
+      <h1>The Future of Customer Intelligence</h1>
+      <p class="subtitle">Test with thousands before launching to one.<br>Understand not just what customers do, but why they do it.</p>
+      <form action="https://formspree.io/f/mpwrvreb" method="POST" class="beta-signup">
+        <label for="email">Sign up to be notified when beta testing opens <span style="white-space:nowrap">(Q4 2025):</span></label>
+        <input type="email" id="email" name="email" placeholder="Your email address" required>
+        <button type="submit">Join Beta Waitlist</button>
+      </form>
+    </section>
+    <section class="summary">
+      <h2>Revolutionize Customer Experience</h2>
+      <p>MonkeyMinds is an AI platform that lets you simulate, test, and perfect customer journeys with psychologically authentic digital personas. Reduce research time, eliminate risk, and scale insights from dozens to thousands—all before launch.</p>
+      <ul class="key-benefits">
+        <li>Test with unlimited digital customers</li>
+        <li>Understand the "why" behind customer actions</li>
+        <li>Accelerate research and innovation</li>
+        <li>Eliminate costly experience failures</li>
+      </ul>
+    </section>
+    <section class="image-placeholder">
+      <img src="journey.png" alt="Customer journey visualization: modern, clean, green and cream color scheme.">
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 MonkeyMinds. All rights reserved.</p>
+  </footer>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var forms = document.querySelectorAll('form[action*="formspree.io"]');
+      forms.forEach(function(form) {
+        form.addEventListener('submit', function(e) {
+          setTimeout(function() {
+            form.reset();
+          }, 100);
+        });
+      });
+    });
+  </script>
+</body>
+</html> 

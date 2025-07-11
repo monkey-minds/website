@@ -1,0 +1,24 @@
+/* Coolors Exported Palette - https://coolors.co/1f8d72-26a07e-cad8a9-f4eee2-f7f0e3 */
+/* CSS Custom Properties (Variables) */
+:root {
+  /* CSS HEX */
+  --viridian: #1F8D72ff;
+  --jungle-green: #26A07Eff;
+  --tea-green: #CAD8A9ff;
+  --alabaster: #F4EEE2ff;
+  --old-lace: #F7F0E3ff;
+  /* CSS HSL */
+  --viridian: hsla(165, 64%, 34%, 1);
+  --jungle-green: hsla(163, 62%, 39%, 1);
+  --tea-green: hsla(78, 38%, 75%, 1);
+  --alabaster: hsla(40, 45%, 92%, 1);
+  --old-lace: hsla(39, 56%, 93%, 1);
+}
+
+/* SCSS Variables */
+/* SCSS HEX */
+/* SCSS HSL */
+/* SCSS RGB */
+/* SCSS Gradient */
+
+/*# sourceMappingURL=palette.css.map */
