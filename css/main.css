@@ -89,8 +89,8 @@ main {
 }
 
 .hero-logo {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   margin-bottom: 1rem;
 }
 
@@ -245,8 +245,8 @@ footer {
     display: none;
   }
   .hero-logo {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
   }
   main {
     padding: 0 0.5rem 2rem 0.5rem;
