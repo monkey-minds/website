@@ -2,8 +2,18 @@ body {
     font-family: 'Times New Roman', serif;
     font-size: 11pt;
     line-height: 1.5;
-    margin: 1in;
+    margin: 0;
+    padding: 0;
     color: #333;
+    background: #fafafa;
+}
+
+.content-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 4rem;
+    background: white;
+    min-height: 100vh;
 }
 
 h1 {
@@ -56,18 +66,36 @@ li {
     margin-bottom: 0.5em;
 }
 
+/* Desktop-specific enhancements */
+@media (min-width: 1025px) {
+    .content-wrapper {
+        padding: 4rem 6rem;
+        box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    }
+    
+    p {
+        margin-bottom: 1.2em;
+    }
+}
+
 /* Responsive adjustments */
 @media (max-width: 1024px) {
-    body {
-        margin: 2rem;
+    .content-wrapper {
+        padding: 2rem 3rem;
+        max-width: 100%;
     }
 }
 
 @media (max-width: 768px) {
+    .content-wrapper {
+        padding: 1.5rem;
+        background: white;
+    }
+    
     body {
-        margin: 1rem;
         font-size: 14px;
         line-height: 1.6;
+        background: white;
     }
 
     h1 { font-size: 20pt; }
