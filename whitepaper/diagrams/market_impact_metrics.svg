@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M1160,58C1160,48.066 1151.93,40 1142,40L58,40C48.066,40 40,48.066 40,58L40,642C40,651.934 48.066,660 58,660L1142,660C1151.93,660 1160,651.934 1160,642L1160,58Z" style="fill:white;stroke:rgb(208,215,222);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,600,82)">
+        <text x="-78.68px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Market Impact Metrics</text>
+    </g>
+    <g transform="matrix(1,0,0,1,600,106)">
+        <text x="-255.691px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">Indexed 0–100 (relative impact potential across key business outcomes)</text>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M220,150L220,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,234,600)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">0</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M416,150L416,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,430,600)">
+            <text x="-8.898px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">20</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M612,150L612,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,626,600)">
+            <text x="-8.898px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">40</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M808,150L808,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,822,600)">
+            <text x="-8.898px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">60</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M1004,150L1004,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1018,600)">
+            <text x="-8.898px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">80</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M1120,150L1120,580" style="fill:none;fill-rule:nonzero;stroke:rgb(208,215,222);stroke-width:1px;stroke-dasharray:3,4;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1134,600)">
+            <text x="-13.348px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">100</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14,0)">
+            <path d="M220,580L1120,580" style="fill:none;fill-rule:nonzero;stroke:rgb(31,78,121);stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,1134,620)">
+            <text x="-112.047px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(31,78,121);">Impact Index →</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,214,200)">
+        <text x="-164.531px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Customer Engagement</text>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1120,188C1120,182.481 1115.52,178 1110,178L230,178C224.481,178 220,182.481 220,188L220,208C220,213.519 224.481,218 230,218L1110,218C1115.52,218 1120,213.519 1120,208L1120,188Z" style="fill:white;fill-opacity:0.6;stroke:black;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M958,188C958,182.481 953.519,178 948,178L230,178C224.481,178 220,182.481 220,188L220,208C220,213.519 224.481,218 230,218L948,218C953.519,218 958,213.519 958,208L958,188Z" style="fill:rgb(245,124,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,240,202)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">82</text>
+    </g>
+    <g transform="matrix(1,0,0,1,214,286)">
+        <text x="-144.961px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Conversion Rate Lift</text>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1120,274C1120,268.481 1115.52,264 1110,264L230,264C224.481,264 220,268.481 220,274L220,294C220,299.519 224.481,304 230,304L1110,304C1115.52,304 1120,299.519 1120,294L1120,274Z" style="fill:white;fill-opacity:0.6;stroke:black;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M832,274C832,268.481 827.519,264 822,264L230,264C224.481,264 220,268.481 220,274L220,294C220,299.519 224.481,304 230,304L822,304C827.519,304 832,299.519 832,294L832,274Z" style="fill:rgb(245,124,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,240,288)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">68</text>
+    </g>
+    <g transform="matrix(1,0,0,1,214,372)">
+        <text x="-126.289px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Retention / Upsell</text>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1120,360C1120,354.481 1115.52,350 1110,350L230,350C224.481,350 220,354.481 220,360L220,380C220,385.519 224.481,390 230,390L1110,390C1115.52,390 1120,385.519 1120,380L1120,360Z" style="fill:white;fill-opacity:0.6;stroke:black;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M886,360C886,354.481 881.519,350 876,350L230,350C224.481,350 220,354.481 220,360L220,380C220,385.519 224.481,390 230,390L876,390C881.519,390 886,385.519 886,380L886,360Z" style="fill:rgb(245,124,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,240,374)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">74</text>
+    </g>
+    <g transform="matrix(1,0,0,1,214,458)">
+        <text x="-94.266px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Cost Savings</text>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1120,446C1120,440.481 1115.52,436 1110,436L230,436C224.481,436 220,440.481 220,446L220,466C220,471.519 224.481,476 230,476L1110,476C1115.52,476 1120,471.519 1120,466L1120,446Z" style="fill:white;fill-opacity:0.6;stroke:black;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M787,446C787,440.481 782.519,436 777,436L230,436C224.481,436 220,440.481 220,446L220,466C220,471.519 224.481,476 230,476L777,476C782.519,476 787,471.519 787,466L787,446Z" style="fill:rgb(245,124,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,240,460)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">63</text>
+    </g>
+    <g transform="matrix(1,0,0,1,214,544)">
+        <text x="-124.547px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Innovation Speed</text>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1120,532C1120,526.481 1115.52,522 1110,522L230,522C224.481,522 220,526.481 220,532L220,552C220,557.519 224.481,562 230,562L1110,562C1115.52,562 1120,557.519 1120,552L1120,532Z" style="fill:white;fill-opacity:0.6;stroke:black;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,14,0)">
+        <path d="M1012,532C1012,526.481 1007.52,522 1002,522L230,522C224.481,522 220,526.481 220,532L220,552C220,557.519 224.481,562 230,562L1002,562C1007.52,562 1012,557.519 1012,552L1012,532Z" style="fill:rgb(245,124,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,240,546)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">88</text>
+    </g>
+</svg>

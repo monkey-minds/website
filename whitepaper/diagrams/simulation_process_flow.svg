@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1400 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,700,54)">
+        <text x="-124.492px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">Simulation Process: Stepwise Flow</text>
+    </g>
+    <g transform="matrix(1,0,0,1,700,78)">
+        <text x="-180.98px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">From scenario deﬁnition to decisions &amp; deployment</text>
+    </g>
+    <g transform="matrix(1,0,0,1,45,190)">
+        <path d="M230,16C230,7.169 222.831,0 214,0L16,0C7.169,0 0,7.169 0,16L0,124C0,132.831 7.169,140 16,140L214,140C222.831,140 230,132.831 230,124L230,16Z" style="fill:rgb(227,242,253);stroke:rgb(25,118,210);stroke-width:3px;"/>
+        <circle cx="22" cy="-14" r="14" style="fill:rgb(25,118,210);"/>
+        <g transform="matrix(1,0,0,1,22,-10)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,30)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">Deﬁne Objectives &amp; Scenarios</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,56)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Business goals &amp; KPIs</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,74)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Key actors &amp; constraints</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,92)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Success criteria &amp; guardrails</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,315,190)">
+        <path d="M230,16C230,7.169 222.831,0 214,0L16,0C7.169,0 0,7.169 0,16L0,124C0,132.831 7.169,140 16,140L214,140C222.831,140 230,132.831 230,124L230,16Z" style="fill:rgb(243,229,245);stroke:rgb(123,31,162);stroke-width:3px;"/>
+        <circle cx="22" cy="-14" r="14" style="fill:rgb(123,31,162);"/>
+        <g transform="matrix(1,0,0,1,22,-10)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,30)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">Persona <tspan x="55.262px 64.6px " y="0px 0px ">As</tspan>sembly</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,56)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Roles, traits, incentives</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,74)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Memory &amp; theory-of-mind conﬁg</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,92)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Diversity &amp; bias checks</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,585,190)">
+        <path d="M230,16C230,7.169 222.831,0 214,0L16,0C7.169,0 0,7.169 0,16L0,124C0,132.831 7.169,140 16,140L214,140C222.831,140 230,132.831 230,124L230,16Z" style="fill:rgb(232,245,232);stroke:rgb(56,142,60);stroke-width:3px;"/>
+        <circle cx="22" cy="-14" r="14" style="fill:rgb(56,142,60);"/>
+        <g transform="matrix(1,0,0,1,22,-10)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,30)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">Data &amp; Context Ingestion</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,56)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• ETL: facts, policies, content</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,74)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Grounding &amp; constraints</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,92)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Privacy &amp; PII handling</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,855,190)">
+        <path d="M230,16C230,7.169 222.831,0 214,0L16,0C7.169,0 0,7.169 0,16L0,124C0,132.831 7.169,140 16,140L214,140C222.831,140 230,132.831 230,124L230,16Z" style="fill:rgb(255,243,224);stroke:rgb(245,124,0);stroke-width:3px;"/>
+        <circle cx="22" cy="-14" r="14" style="fill:rgb(245,124,0);"/>
+        <g transform="matrix(1,0,0,1,22,-10)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,30)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">Simulation Run</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,56)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Multi-agent interactions</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,74)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Interventions &amp; what-if tests</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,92)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Guardrails &amp; drift checks</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1125,190)">
+        <path d="M230,16C230,7.169 222.831,0 214,0L16,0C7.169,0 0,7.169 0,16L0,124C0,132.831 7.169,140 16,140L214,140C222.831,140 230,132.831 230,124L230,16Z" style="fill:rgb(227,242,253);stroke:rgb(25,118,210);stroke-width:3px;"/>
+        <circle cx="22" cy="-14" r="14" style="fill:rgb(25,118,210);"/>
+        <g transform="matrix(1,0,0,1,22,-10)">
+            <text x="-4.449px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">5</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,30)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">Results &amp; Insights</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,56)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Dashboards &amp; narratives</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,74)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Decisions, playbooks, rollout</text>
+        </g>
+        <g transform="matrix(1,0,0,1,16,92)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;fill:rgb(15,23,42);">• Feedback into next cycle</text>
+        </g>
+    </g>
+    <path d="M275,260L315,260" style="fill:none;fill-rule:nonzero;stroke:rgb(31,78,121);stroke-width:3px;"/>
+    <path d="M545,260L585,260" style="fill:none;fill-rule:nonzero;stroke:rgb(31,78,121);stroke-width:3px;"/>
+    <path d="M815,260L855,260" style="fill:none;fill-rule:nonzero;stroke:rgb(31,78,121);stroke-width:3px;"/>
+    <path d="M1085,260L1125,260" style="fill:none;fill-rule:nonzero;stroke:rgb(31,78,121);stroke-width:3px;"/>
+    <g transform="matrix(1,0,0,1,60,470)">
+        <g transform="matrix(1.5951,0,0,1,0,0)">
+            <path d="M460,-6C460,-12.623 456.629,-18 452.477,-18L7.523,-18C3.371,-18 0,-12.623 0,-6L0,18C0,24.623 3.371,30 7.523,30L452.477,30C456.629,30 460,24.623 460,18L460,-6Z" style="fill:white;stroke:rgb(208,215,222);stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,-0.353789)">
+            <circle cx="18" cy="6" r="6" style="fill:rgb(25,118,210);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,34,9.79074)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">System/Output (Blue)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,42.3185,-0.353789)">
+            <circle cx="170" cy="6" r="6" style="fill:rgb(123,31,162);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,227.742,9.78684)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">Persona (Purple)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,82.4396,-0.353789)">
+            <circle cx="292" cy="6" r="6" style="fill:rgb(56,142,60);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,390.088,9.78684)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">Data/ETL<tspan x="66.992px 71.438px " y="0px 0px "> (</tspan>Green)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,138.539,-0.353789)">
+            <circle cx="404" cy="6" r="6" style="fill:rgb(245,124,0);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,558.737,9.79074)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(71,85,105);">AI/Simulation (Orange)</text>
+        </g>
+    </g>
+</svg>

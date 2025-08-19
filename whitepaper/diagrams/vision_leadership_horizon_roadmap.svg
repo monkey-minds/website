@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,600,56)">
+        <text x="-166.605px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(15,23,42);">V<tspan x="-156.223px -152.668px " y="0px 0px ">is</tspan>ion &amp; Market Leadership: Horizon Roadmap</text>
+    </g>
+    <path d="M440,186C440,177.169 432.831,170 424,170L156,170C147.169,170 140,177.169 140,186L140,334C140,342.831 147.169,350 156,350L424,350C432.831,350 440,342.831 440,334L440,186Z" style="fill:rgb(232,245,232);stroke:rgb(56,142,60);stroke-width:4px;"/>
+    <g transform="matrix(1,0,0,1,290,210)">
+        <text x="-71.566px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(56,142,60);">Near-T<tspan x="-23.559px -14.66px " y="0px 0px ">er</tspan>m (1–3 yrs)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,290,246)">
+        <text x="-108.496px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Enterprise pilots, case studies,</text>
+    </g>
+    <g transform="matrix(1,0,0,1,290,266)">
+        <text x="-94.277px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">CX &amp; healthcare validation</text>
+    </g>
+    <path d="M780,186C780,177.169 772.831,170 764,170L496,170C487.169,170 480,177.169 480,186L480,334C480,342.831 487.169,350 496,350L764,350C772.831,350 780,342.831 780,334L780,186Z" style="fill:rgb(243,229,245);stroke:rgb(123,31,162);stroke-width:4px;"/>
+    <g transform="matrix(1,0,0,1,630,210)">
+        <text x="-67.117px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(123,31,162);">Mid-T<tspan x="-28.008px -19.109px " y="0px 0px ">er</tspan>m (3–7 yrs)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,630,246)">
+        <text x="-79.594px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Scenario marketplace,</text>
+        <text x="-90.688px" y="16px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">real-time interactive sims,</text>
+    </g>
+    <g transform="matrix(1,0,0,1,629.264,278.247)">
+        <text x="-75.586px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">multi-agent dynamics</text>
+    </g>
+    <path d="M1120,186C1120,177.169 1112.83,170 1104,170L836,170C827.169,170 820,177.169 820,186L820,334C820,342.831 827.169,350 836,350L1104,350C1112.83,350 1120,342.831 1120,334L1120,186Z" style="fill:rgb(255,243,224);stroke:rgb(245,124,0);stroke-width:4px;"/>
+    <g transform="matrix(0.409361,0,0,1,335.056,-171.144)">
+        <path d="M260.15,433.618L260.15,426.655L325.202,426.655L325.202,420.189L349.501,430.136L325.202,440.083L325.202,433.618L260.15,433.618Z" style="fill:rgb(31,78,121);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,970,210)">
+        <text x="-81.145px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(245,124,0);">Long-T<tspan x="-32.223px -23.324px " y="0px 0px ">er</tspan>m (7–10+ yrs)</text>
+    </g>
+    <g transform="matrix(1,0,0,1,970,246)">
+        <text x="-103.172px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">Industry standard, behavioral</text>
+        <text x="-91.156px" y="16px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">intelligence infrastructure,</text>
+    </g>
+    <g transform="matrix(1,0,0,1,967.259,279.547)">
+        <text x="-64.031px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(51,51,51);">AR/VR integration</text>
+    </g>
+    <g transform="matrix(0.409361,0,0,1,675.536,-171.144)">
+        <path d="M260.15,433.618L260.15,426.655L325.202,426.655L325.202,420.189L349.501,430.136L325.202,440.083L325.202,433.618L260.15,433.618Z" style="fill:rgb(31,78,121);"/>
+    </g>
+</svg>

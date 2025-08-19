@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <title>Applications &amp; Use Cases: Industry Spread</title>
+  <defs>
+    <style>
+      .title{font:800 22px Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#0f172a}
+      .hub{fill:#1f4e79}
+      .hubText{font:800 16px Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#ffffff}
+      .pill{fill:#e3f2fd; stroke:#1976d2; stroke-width:3}
+      .pillText{font:400 13px Inter, Segoe UI, Roboto, Arial, sans-serif; fill:#0f172a}
+      .spoke{stroke:#1f4e79; stroke-width:3; stroke-linecap:round}
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text class="title" x="600" y="60" text-anchor="middle">Applications &amp; Use Cases: Industry Spread</text>
+
+  <!-- Hub -->
+  <circle class="hub" cx="600" cy="480" r="100"/>
+  <text class="hubText" x="600" y="472" text-anchor="middle">MonkeyMinds</text>
+  <text class="hubText" x="600" y="494" text-anchor="middle">Core</text>
+
+  <!-- Pills (240×48 default) -->
+  <!-- top -->
+  <rect class="pill" x="480" y="110" width="240" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="600" y="139" text-anchor="middle">Customer Experience</text>
+
+  <!-- upper-left -->
+  <rect class="pill" x="200" y="180" width="240" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="320" y="209" text-anchor="middle">Cross-Industry</text>
+
+  <!-- upper-right -->
+  <rect class="pill" x="760" y="180" width="240" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="880" y="209" text-anchor="middle">Product Design</text>
+
+  <!-- mid-left -->
+  <rect class="pill" x="120" y="320" width="260" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="250" y="349" text-anchor="middle">Tech/AI Development</text>
+
+  <!-- mid-right -->
+  <rect class="pill" x="820" y="320" width="240" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="940" y="349" text-anchor="middle">Healthcare</text>
+
+  <!-- low-left -->
+  <rect class="pill" x="160" y="500" width="260" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="290" y="529" text-anchor="middle">Public Policy</text>
+
+  <!-- low-right -->
+  <rect class="pill" x="760" y="520" width="280" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="900" y="549" text-anchor="middle">Financial Services</text>
+
+  <!-- bottom pair: perfectly aligned Y -->
+  <rect class="pill" x="300" y="700" width="260" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="430" y="729" text-anchor="middle">HR</text>
+
+  <rect class="pill" x="660" y="700" width="260" height="48" rx="14" ry="14"/>
+  <text class="pillText" x="790" y="729" text-anchor="middle">Marketing</text>
+
+  <!-- Spokes (from hub to nearest pill edge) -->
+  <line class="spoke" x1="600" y1="380" x2="600" y2="158"/>                          <!-- Customer Experience -->
+  <line class="spoke" x1="560" y1="404" x2="390" y2="228"/>                            <!-- Cross-Industry -->
+  <line class="spoke" x1="640" y1="404" x2="810" y2="228"/>                            <!-- Product Design -->
+  <line class="spoke" x1="520" y1="460" x2="380" y2="344"/>                            <!-- Tech/AI Dev -->
+  <line class="spoke" x1="680" y1="460" x2="820" y2="344"/>                            <!-- Healthcare -->
+  <line class="spoke" x1="520" y1="520" x2="420" y2="548"/>                            <!-- Public Policy -->
+  <line class="spoke" x1="700" y1="520" x2="760" y2="544"/>                            <!-- Financial Services -->
+  <line class="spoke" x1="590" y1="580" x2="430" y2="700"/>                            <!-- HR -->
+  <line class="spoke" x1="610" y1="580" x2="790" y2="700"/>                            <!-- Marketing -->
+</svg>

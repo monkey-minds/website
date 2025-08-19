@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+<path d="M0 0 L10 5 L0 10 Z" fill="#1f4e79"/></marker></defs>
+<text x="600.0" y="52" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="22px" font-weight="800" fill="#0f172a">Competitive Landscape: Psychological Authenticity × Scalability</text>
+<rect x="120" y="100" width="510.0" height="305.0" rx="18" ry="18" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="126" y="128" width="498.0" height="271.0" rx="14" ry="14" fill="#f6f8fb" stroke="#f6f8fb" stroke-width="0" opacity="0.4"/>
+<text x="132" y="120" text-anchor="start" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="12px" font-weight="600" fill="#475569">High Authenticity / Low Scalability</text>
+<rect x="630.0" y="100" width="510.0" height="305.0" rx="18" ry="18" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="636.0" y="128" width="498.0" height="271.0" rx="14" ry="14" fill="#f6f8fb" stroke="#f6f8fb" stroke-width="0" opacity="0.4"/>
+<text x="642.0" y="120" text-anchor="start" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="12px" font-weight="600" fill="#475569">High Authenticity / High Scalability</text>
+<rect x="120" y="405.0" width="510.0" height="305.0" rx="18" ry="18" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="126" y="433.0" width="498.0" height="271.0" rx="14" ry="14" fill="#f6f8fb" stroke="#f6f8fb" stroke-width="0" opacity="0.4"/>
+<text x="132" y="425.0" text-anchor="start" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="12px" font-weight="600" fill="#475569">Low Authenticity / Low Scalability</text>
+<rect x="630.0" y="405.0" width="510.0" height="305.0" rx="18" ry="18" fill="#fff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="636.0" y="433.0" width="498.0" height="271.0" rx="14" ry="14" fill="#f6f8fb" stroke="#f6f8fb" stroke-width="0" opacity="0.4"/>
+<text x="642.0" y="425.0" text-anchor="start" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="12px" font-weight="600" fill="#475569">Low Authenticity / High Scalability</text>
+<line x1="120" y1="746" x2="1140" y2="746" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)" />
+<text x="1140" y="770" text-anchor="end" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="700" fill="#1f4e79">Scalability</text>
+<line x1="84" y1="710" x2="84" y2="100" stroke="#1f4e79" stroke-width="3" marker-end="url(#arrow)" />
+<text x="60" y="405.0" text-anchor="middle" font-family="Inter, Segoe UI, Roboto" font-size="13px" font-weight="700" fill="#1f4e79" transform="rotate(-90 60 405.0)">Psychological Authenticity</text>
+<rect x="183.60000000000002" y="212.2" width="240" height="44" rx="16" ry="16" fill="#e3f2fd" stroke="#1976d2" stroke-width="2.5"/>
+<text x="303.6" y="238.2" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="normal" fill="#0f172a">Behavioral Consultancies</text>
+<rect x="204.0" y="492.79999999999995" width="240" height="44" rx="16" ry="16" fill="#e3f2fd" stroke="#1976d2" stroke-width="2.5"/>
+<text x="324.0" y="518.8" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="normal" fill="#0f172a">Surveys / Focus Groups</text>
+<rect x="714.0" y="431.80000000000007" width="240" height="44" rx="16" ry="16" fill="#e3f2fd" stroke="#1976d2" stroke-width="2.5"/>
+<text x="834.0" y="457.80000000000007" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="normal" fill="#0f172a">AI Persona Tools</text>
+<rect x="856.8" y="517.2" width="240" height="44" rx="16" ry="16" fill="#e3f2fd" stroke="#1976d2" stroke-width="2.5"/>
+<text x="976.8" y="543.2" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="normal" fill="#0f172a">Analytics Platforms</text>
+<rect x="846.5999999999999" y="163.4" width="240" height="44" rx="16" ry="16" fill="#1f4e79" stroke="#1f4e79" stroke-width="3.5"/>
+<text x="966.5999999999999" y="189.4" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="13px" font-weight="700" fill="#ffffff">MonkeyMinds</text>
+</svg>
