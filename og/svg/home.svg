@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F8D72"/>
+      <stop offset="100%" stop-color="#26A07E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="60" y="180" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="64" fill="#F4EEE2" font-weight="700">MonkeyMinds AI</text>
+  <text x="60" y="260" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="46" fill="#F4EEE2">Simulate real customers before you launch</text>
+  <text x="60" y="340" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="28" fill="#F4EEE2">AI persona simulations for product, marketing, and CX teams</text>
+</svg>
+
+
